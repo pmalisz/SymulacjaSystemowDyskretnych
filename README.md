@@ -1,5 +1,8 @@
 # Symulacja dyskretna sieci tramwajowej w Krakowie
 
+## Wymagania
+Do uruchomienia projektu wymagany jest system Windows z zainstalowamnym pakietem DirectX oraz IDE Visual Studio
+
 ## Uruchomienie projektu
 Podczas próby uruchomienia aplikacji w Visual Studio może wystąpić następujący błąd
 
