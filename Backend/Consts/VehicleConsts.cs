@@ -16,6 +16,6 @@
 
         public const float TimeToMaxSpeedInS = 10;
 
-        public const float AccelerationInMPerS2 = MaxCrossSpeedInMPerS / TimeToMaxSpeedInS;
+        public const float AccelerationInMPerS2 = MaxSpeedInMPerS / TimeToMaxSpeedInS;
     }
 }
